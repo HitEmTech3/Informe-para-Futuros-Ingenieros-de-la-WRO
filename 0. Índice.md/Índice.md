@@ -15,6 +15,6 @@
 # 5. Videos del robot.
 ## 5.1. Desafío Abierto.
 ## 5.2. Desafío de Obstáculos (Cerrado).
-# 6. Documentación del Código de programación.
+# 6. Documentación del Código de Programación.
 ## 6.1. Código del Desafío Abierto.
 ## 6.2. Código del Desafío de Obstáculos.
