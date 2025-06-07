@@ -1,4 +1,4 @@
-# 1. Descripción del equipo:
+[Descripción del equipo](#descripcion-del-equipo)
 ## 1.1. Nombre del equipo.
 ## 1.2. Presentación de los integrantyes.
 ## 1.3. Distribución de las funciones (Cargos personales).
